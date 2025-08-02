@@ -42,12 +42,6 @@ Battleship-CLI/
 ├── README.md                # You are here
 ```
 
-## 📜 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
-
----
-
 ### 🔗 Author
 
 Developed by **James Bilis**  
