@@ -1,4 +1,5 @@
 # 🛥️ Battleship CLI Game
+![Dockerized](https://img.shields.io/badge/docker-ready-blue)
 
 A command-line version of the classic game Battleship, written in Python.  
 Challenge your logic and luck as you try to sink the hidden ships on a grid!
