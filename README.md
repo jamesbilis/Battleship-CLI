@@ -1,5 +1,7 @@
 # 🛥️ Battleship CLI Game
-![Dockerized](https://img.shields.io/badge/docker-ready-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/jamesbilis/Battleship-CLI)
+![Last Commit](https://img.shields.io/github/last-commit/jamesbilis/Battleship-CLI)
+![License](https://img.shields.io/github/license/jamesbilis/Battleship-CLI)
 
 A command-line version of the classic game Battleship, written in Python.  
 Challenge your logic and luck as you try to sink the hidden ships on a grid!
