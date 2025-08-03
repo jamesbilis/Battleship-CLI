@@ -16,7 +16,7 @@ Challenge your logic and luck as you try to sink the hidden ships on a grid!
 Make sure you have **Python 3.7+** installed.
 
 ```bash
-python "Battleship Game.py"
+python "battleship_game.py"
 ```
 
 > If you're using VS Code or another IDE, simply open the file and run the script.
@@ -39,7 +39,7 @@ python "Battleship Game.py"
 ```
 Battleship-CLI/
 │
-├── Battleship Game.py       # Main game logic
+├── battleship_game.py       # Main game logic
 ├── README.md                # You are here
 ```
 
